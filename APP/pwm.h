@@ -17,7 +17,7 @@
 #ifndef PWM_H
 #define PWM_H
 
-void MX_TIM8_Init(void);
+void TIM15_Init(void);
 void PWM_Start( void );
 void PWM_Stop( void );
 

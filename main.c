@@ -42,7 +42,7 @@ int main(void)
 {
   HAL_Init();
   SystemClock_Config();
-  MX_TIM8_Init();
+  TIM15_Init();
   MX_TIM6_Init();
   MX_DAC1_Init();
   COMP1_Init();
