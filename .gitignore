@@ -5,3 +5,5 @@
 .vscode/BROWSE.VC.DB-wal
 .vscode/BROWSE.VC.2.DB
 build
+.vscode/BROWSE.VC.2.DB-wal
+.vscode/BROWSE.VC.2.DB-shm
