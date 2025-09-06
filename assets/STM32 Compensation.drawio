@@ -127,7 +127,7 @@
         <mxCell id="OOQkfJRZyBg2U6JKaqGH-59" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.59;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="OOQkfJRZyBg2U6JKaqGH-58" target="OOQkfJRZyBg2U6JKaqGH-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OOQkfJRZyBg2U6JKaqGH-60" value="&lt;div&gt;DAC3/CH2&lt;/div&gt;&lt;div&gt;Slope Compensation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="OOQkfJRZyBg2U6JKaqGH-60" value="&lt;div&gt;DAC3/CH1&lt;/div&gt;&lt;div&gt;Slope Compensation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="1550" y="570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V9aETFPJIesFin-ItPhB-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sawtooth;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -344,7 +344,7 @@
         <mxCell id="yIxr4g1R-8jaAsWeIHiW-46" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="yIxr4g1R-8jaAsWeIHiW-30" source="yIxr4g1R-8jaAsWeIHiW-31" target="yIxr4g1R-8jaAsWeIHiW-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yIxr4g1R-8jaAsWeIHiW-31" value="OPAMP3" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_1;flipH=1;flipV=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fontFamily=Garamond;fontSize=15;" parent="yIxr4g1R-8jaAsWeIHiW-30" vertex="1">
+        <mxCell id="yIxr4g1R-8jaAsWeIHiW-31" value="OPAMP1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_1;flipH=1;flipV=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fontFamily=Garamond;fontSize=15;" parent="yIxr4g1R-8jaAsWeIHiW-30" vertex="1">
           <mxGeometry width="98" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yIxr4g1R-8jaAsWeIHiW-32" value="EA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fontFamily=Garamond;fontSize=15;" parent="yIxr4g1R-8jaAsWeIHiW-30" vertex="1">
