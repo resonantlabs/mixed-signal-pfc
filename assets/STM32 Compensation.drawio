@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
   <diagram name="Page-1" id="f89aZk8P8buRDF0YB4U_">
-    <mxGraphModel dx="1440" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
             <mxPoint x="830.002857142857" y="805.1499999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9aETFPJIesFin-ItPhB-22" value="&lt;div&gt;DAC1/CH1&lt;/div&gt;&lt;div&gt;Iref&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="V9aETFPJIesFin-ItPhB-22" value="&lt;div&gt;DAC3/CH1&lt;/div&gt;&lt;div&gt;Iref&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V9aETFPJIesFin-ItPhB-24" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="yIxr4g1R-8jaAsWeIHiW-10" target="V9aETFPJIesFin-ItPhB-22" edge="1">
@@ -328,7 +328,7 @@
             <mxPoint x="1058" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yIxr4g1R-8jaAsWeIHiW-20" value="PC0" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+        <mxCell id="yIxr4g1R-8jaAsWeIHiW-20" value="PB1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="1170" y="135" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yIxr4g1R-8jaAsWeIHiW-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.667;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Garamond;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="yIxr4g1R-8jaAsWeIHiW-23" target="OOQkfJRZyBg2U6JKaqGH-55" edge="1">
