@@ -406,7 +406,7 @@
         <mxCell id="yIxr4g1R-8jaAsWeIHiW-59" value="PB1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="960" y="765" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bQTLDJSGR88bMNeataVd-3" value="&lt;div&gt;COMP2_INP - PA7&lt;/div&gt;&lt;div&gt;COMP4_INP-PB0&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;align=left;" vertex="1" parent="1">
+        <mxCell id="bQTLDJSGR88bMNeataVd-3" value="&lt;div&gt;COMP2_INP - PA7&lt;/div&gt;&lt;div&gt;COMP2_OUT - PA12&lt;/div&gt;&lt;div&gt;COMP4_INP-PB0&lt;/div&gt;&lt;div&gt;COMP4_OUT-PB6&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;align=left;" vertex="1" parent="1">
           <mxGeometry x="410" y="180" width="260" height="160" as="geometry" />
         </mxCell>
       </root>
